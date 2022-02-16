@@ -15,6 +15,7 @@ ML in Predictive Analysis:
 
 
 SpaceX Falcon9 Landing Predictions:
+http://localhost:8888/notebooks/SpaceX%20Falcon9%20Landing%20Prediction.ipynb
 
 
 SpaceX Data Collection app:
