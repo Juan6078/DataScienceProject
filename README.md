@@ -1,23 +1,24 @@
 # DataScienceProject
 Data Wrangling:
-http://localhost:8890/doc/tree/DataWrangling.ipynb
 http://localhost:8888/notebooks/DataWrangling.ipynb
 
-
 EDA in Python:
-http://localhost:8890/doc/tree/EDA%20in%20Python.ipynb
+
+
+EDA in SQL:
+
 
 Sites Location Analysis:
-http://localhost:8890/doc/tree/SitesLocationAnalysis.ipynb
+
 
 ML in Predictive Analysis:
-http://localhost:8890/doc/tree/ML%20Prediction.ipynb
+
 
 SpaceX Falcon9 Landing Predictions:
-http://localhost:8890/doc/tree/SpaceX%20Falcon9%20Landing%20Prediction.ipynb
+
 
 SpaceX Data Collection app:
-http://localhost:8890/doc/tree/SpaceXDataCollectionap.ipynb
 
-http://localhost:8891/notebooks/DataWrangling.ipynb
+
+
 
