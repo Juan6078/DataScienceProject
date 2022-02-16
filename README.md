@@ -6,7 +6,7 @@ EDA in Python:
 http://localhost:8888/notebooks/EDA%20in%20Python.ipynb
 
 EDA in SQL:
-
+http://localhost:8888/notebooks/EDA%20with%20SQL.ipynb
 
 Sites Location Analysis:
 http://localhost:8888/notebooks/SitesLocationAnalysis.ipynb
